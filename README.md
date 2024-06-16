@@ -1,7 +1,7 @@
 ### Olá, eu sou Jardel Kahne 😁 ###
 
 🎓Academico de Engenharia De Software;<br>
-💻Atualmente trabalho como Técnico de T.I em uma universidade;<br>
+💻Atualmente trabalho como Analista de Sistemas Tasy em um hostpital e como desenvolvedor fullstack jr;<br>
 ⌚Procurando oportunidades;<br>
 
 <div style="display: inline_block"><br>
