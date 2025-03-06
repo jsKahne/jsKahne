@@ -1,8 +1,9 @@
 ### Olá, eu sou Jardel Kahne 😁 ###
 
 🎓Academico de Engenharia De Software;<br>
-💻Atualmente trabalho como Analista de Sistemas Tasy em um hostpital e como desenvolvedor fullstack jr;<br>
+💻Atualmente trabalho como DBA para a RECONECTA e como desenvolvedor fullstack;<br>
 ⌚Procurando oportunidades;<br>
+
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Kahne-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
